@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MatchingGame</string>
+    <string name="desc">MG square</string>
 </resources>
